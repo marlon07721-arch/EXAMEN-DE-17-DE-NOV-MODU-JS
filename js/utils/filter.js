@@ -1,6 +1,5 @@
 /**
  * Filtro por estado, por categoría, buscador y estadísticas.
- * Responsable: Marlon
  */
 // Opciones del filtro por estado: todas, pendientes o completadas
 export const STATUS = Object.freeze({
