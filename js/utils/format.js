@@ -1,6 +1,5 @@
 /**
  * Formato de fechas y textos para la interfaz.
- * Responsable: Juan
  */
 
 /** "2026-11-04" → "4 nov 2026" */
