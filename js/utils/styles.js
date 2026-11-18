@@ -1,6 +1,5 @@
 /**
  * Cargador de estilos para los componentes.
- * Responsable: Juan
  *
  * El Shadow DOM aísla los estilos: el CSS de la página no entra al componente.
  * Por eso cada archivo de la carpeta css/ (menos css/base) se descarga UNA sola vez,
