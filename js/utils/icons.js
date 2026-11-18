@@ -1,6 +1,5 @@
 /**
  * Íconos SVG en línea (sin dependencias externas).
- * Responsable: Juan
  */
 // Función que arma un ícono SVG a partir de sus trazos (paths).
 // currentColor: el ícono toma el mismo color del texto.
