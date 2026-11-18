@@ -1,6 +1,5 @@
 /**
  * <task-toolbar>: botones de acción, buscador, filtro por categoría y filtro por estado.
- * Responsable: Juan
  *
  * Emite: CREATE_REQUEST, IMPORT_REQUEST, CATEGORIES_REQUEST, COMPLETE_ALL_REQUEST,
  *        CLEAR_REQUEST, FILTER_CHANGE { status, category, query }
