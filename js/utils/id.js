@@ -1,7 +1,5 @@
 /**
  * Estándar de identificadores del proyecto.
- * Responsable: Marlon
- *
  *   TSK-L-000001  → tarea creada por el usuario (L = local), consecutivo.
  *   TSK-A-000123  → tarea importada de la API (A = API), usa el id original.
  *   CAT-000001    → categoría creada por el usuario, consecutivo.
