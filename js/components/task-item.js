@@ -1,6 +1,5 @@
 /**
  * <task-item>: una tarea de la lista.
- * Responsable: Juan
  *
  * Uso: item.setTask(tarea, categoria)   (categoria = { id, name } o null)
  * Emite: TOGGLE, EDIT, DELETE (con { id })
