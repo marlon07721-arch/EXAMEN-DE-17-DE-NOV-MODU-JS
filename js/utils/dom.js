@@ -1,6 +1,5 @@
 /**
  * Utilidades de DOM compartidas.
- * Responsables: Juan y Marlon (compartido)
  */
 
 /**
