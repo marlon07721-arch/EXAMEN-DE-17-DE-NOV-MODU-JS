@@ -1,6 +1,5 @@
 /**
  * <toast-message>: avisos breves ("Tarea creada", "3 tareas importadas").
- * Responsable: Juan
  *
  * Uso: toast.show('Tarea creada', 'success')
  * Tipos: 'success' | 'error' | 'info'
