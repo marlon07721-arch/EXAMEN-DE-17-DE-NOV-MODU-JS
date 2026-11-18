@@ -1,6 +1,5 @@
 /**
  * Modelo de categoría y validaciones.
- * Responsable: Marlon
  *
  * Estructura (JSON) de una categoría:
  * {
