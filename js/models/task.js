@@ -1,6 +1,5 @@
 /**
  * Modelo de tarea y validaciones.
- * Responsable: Marlon
  *
  * Estructura (JSON) de una tarea:
  * {
