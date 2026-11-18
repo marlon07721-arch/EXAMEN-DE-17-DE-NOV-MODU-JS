@@ -1,6 +1,5 @@
 /**
  * Consumo de la API pública del banco de tareas.
- * Responsable: Marlon
  *
  * Endpoint: https://jsonplaceholder.typicode.com/todos
  * Errores que se manejan: sin conexión, tiempo agotado, error HTTP (404, 500...),
