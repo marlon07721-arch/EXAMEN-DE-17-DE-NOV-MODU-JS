@@ -1,6 +1,5 @@
 /**
  * Persistencia en localStorage (estructura JSON).
- * Responsable: Marlon
  *
  * Clave: "tareas.v1"
  * Valor: {
