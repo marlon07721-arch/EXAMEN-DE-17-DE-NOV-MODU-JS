@@ -1,6 +1,5 @@
 /**
  * Contrato de eventos entre componentes.
- * Responsables: Juan y Marlon (compartido — no cambiar sin avisar al otro)
  *
  * Todos los eventos usan bubbles + composed para atravesar el Shadow DOM
  * y llegar hasta <task-app>, que es quien habla con el store.
